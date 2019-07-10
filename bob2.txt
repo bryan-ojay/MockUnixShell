@@ -1,0 +1,19 @@
+/b /b/1 /1 /d /c /c/1 
+"""
+/a "bye" /hi "oof" 
+"""
+
+"""
+1. mkdir a
+2. mkdir b
+3. mkdir c
+4. mkdir d
+5. echo "the big brown fox \n oof" > a/c
+6. ls
+7. ls a
+8. mkdir 1
+9. mkdir  b/1
+10. mkdir c/1
+11. echo "oof" > hi
+12. echo "bye" > a
+13. save bob2.txt

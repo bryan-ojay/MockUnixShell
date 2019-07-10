@@ -1,0 +1,16 @@
+/dir2 /dir1 
+"""
+/dir2/file2 "hello world" /dir1/file1 "test contents" 
+"""
+
+"""
+hello
+world
+foo
+bar
+invalid command
+valid command
+test contents
+for the history cmd
+ok 
+/done/

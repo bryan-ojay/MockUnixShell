@@ -1,0 +1,10 @@
+/a /a/b /a/b/c /a/b/c/d 
+"""
+/a/file2 "test2" /file1 "test1" 
+"""
+
+"""
+mkdir a a/b a/b/c a/b/c/d
+echo "test1" > file1
+echo "test2" > a/file2
+save testfile.txt

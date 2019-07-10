@@ -1,0 +1,14 @@
+Backlog
+---
+User Stories                                                                                         Time (Days)
+User/Admin wants to input commands constantly.                                                           1                            
+User/Admin wants to exit the shell.                                                                      1
+User/Admin wants to to view the documentation of the shell.                                              2
+User/Admin wants to make a directory.                                                                    2
+User/Admin wants to see the list of directories in the current path.                                     2
+User/Admin wants to change the current directory.                                                        2
+User/Admin wants to check the recent command/input history or the n-most recent history.                 3
+User/Admin wants to print the current directory.                                                         1
+User/Admin wants to view all data in file(s).                                                            2
+User/Admin wants to edit the contents of a current file or create a new file and add content.            4
+User/Admin wants to save the current directory in order to access later.                                 5

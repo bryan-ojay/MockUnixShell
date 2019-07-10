@@ -1,0 +1,13 @@
+Backlog
+---
+User Stories                                                                                                                                Time (Days)
+User/Admin wants to be able to overwrite whatever is outputted by each command (other than exit) in the inputted file after the >              0.5
+User/Admin wants to be able to append to the inputted file after the >> whatever is outputted by each command (other than exit)                 2
+User/Admin wants to be able to see the subdirectories whenever -R is inputted when wanting to see the list of contents in the directory        0.5
+User/Admin wants to be able to move an item (file or directory) from one place to another                                                       1
+User/Admin wants to be able to copy an item (file or directory) from one place to another                                                       1
+User/Admin wants to be able to retrieve the file at the given URL and add it to the current directory                                           2
+User/Admin wants to be able to save the session (the tasks performed) of the shell before the user closes it                                    2
+User/Admin wants to then be able to load the past session saved in a file to be resumed when the shell is started again                         2
+User/Admin wants to be able to find all files or directories in the given path directory                                                        2
+User/Admin wants to able able to see the entire file system outputted in a tree format                                                          2
